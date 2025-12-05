@@ -25,7 +25,7 @@ public class Main {
 
         System.out.println("\n3. Student Module\n");
         StudentProfile student1 = new StudentProfile();
-        student1.addStudent("SV001", "Le Huu Thanh", 3.5);
+        student1.addStudent("SV001", "Le Huu Thanh", 3.5, 07 / 05 / 2002);
         student1.viewStudentDetails();
 
         student1.updateStudent("Duong Thanh (Updated)", 3.8);
