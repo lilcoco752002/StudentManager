@@ -5,6 +5,7 @@ public class UserProfile {
     private String userName;
     private String email;
 
+    // getters and setters
     public String getUserId() {
         return userId;
     }
