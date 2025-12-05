@@ -13,6 +13,7 @@ public class DepartmentInfo {
         System.out.println("Them khoa moi: " + deptName + " (" + deptId + ")");
     }
 
+    // chức năng hiển thị thông tin khoa
     public void showDepartmentInfo() {
         System.out.println("Khoa: " + deptName + " | Truong khoa: " + headOfDept);
     }
