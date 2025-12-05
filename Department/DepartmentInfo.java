@@ -5,6 +5,7 @@ public class DepartmentInfo {
     private String deptName;
     private String headOfDept;
 
+    // chức năng thêm khoa
     public void addDepartment(String id, String name, String head) {
         this.deptId = id;
         this.deptName = name;
